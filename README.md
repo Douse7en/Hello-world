@@ -1,6 +1,7 @@
 # Hello-world
 nothing
-我是你
-asd
-asdn
-asdm
+## 中文尝试
+seems good
+* first
+* second
+* third
